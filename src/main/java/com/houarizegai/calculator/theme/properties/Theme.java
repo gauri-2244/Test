@@ -2,8 +2,8 @@ package com.houarizegai.calculator.theme.properties;
 
 public class Theme {
 
-    private String name_3;
-    private String applicationBackground_3;
+    private String name_4;
+    private String applicationBackground_4;
     private String textColor;
     private String btnEqualTextColor;
     private String operatorBackground;
