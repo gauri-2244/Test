@@ -2,13 +2,13 @@ package com.houarizegai.calculator.theme.properties;
 
 public class Theme {
 
-    private String name_10;
-    private String applicationBackground_10;
-    private String textColor_1;
-    private String btnEqualTextColor_2;
+    private String name_12;
+    private String applicationBackground_12;
+    private String textColor_2;
+    private String btnEqualTextColor_3;
     private String operatorBackground_1;
     private String numbersBackground_1;
-    private String btnEqualBackground;
+    private String btnEqualBackground0;
 
     public String getName() {
         return name;
